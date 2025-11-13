@@ -70,4 +70,4 @@ By default OpenWrt's offloading is disabled, but if you ever happen to enable it
    uci commit network
    ```
 
-Thanks to Asvio, qosmio and ACWifiDude.
+Thanks to Asvio, qosmio, tingalvin and ACWifiDude.
